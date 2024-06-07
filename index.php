@@ -1,12 +1,5 @@
 <?php
 
-
-
-
-
-
-
-
 	require_once('evento/action/conexao.php');
 	date_default_timezone_set('America/Mexico_City');
 
